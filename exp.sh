@@ -2,8 +2,8 @@
 #kontolkuda
 #anjay
 
-printf "Workreap Themes Exploiter"
-printf "Coded by : kyu_kazami" 
+printf "Workreap Themes Exploiter \n"
+printf "Coded by : kyu_kazami \n" 
 
 
 exploit(){ 
